@@ -16,3 +16,10 @@ In conclusion, effective credit card fraud detection can be achieved by developi
 
 > Implement the command by referring the noteboke attached in the repository : https://github.com/Moudipa01/American-Express-Credit-Card-Fraud-Detection/blob/main/AmercianExpress-final.ipynb
 
+
+## Developer Details :
+> Name - Moudipa Jana
+
+> email id - moudipa.jana2020@vitstudent.ac.in
+
+> Team Name - Innovator
