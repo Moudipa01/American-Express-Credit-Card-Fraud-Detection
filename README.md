@@ -14,7 +14,7 @@ In conclusion, effective credit card fraud detection can be achieved by developi
 
 > Add the dataset in the notebook directory(recommended to use Jupyter Notebook or Google Collab)
 
-> Implement the command by referring the noteboke attached in the repository : https://github.com/Moudipa01/American-Express-Credit-Card-Fraud-Detection/blob/main/AmercianExpress-final.ipynb
+> Implement the command by referring the notebook attached in the repository : https://github.com/Moudipa01/American-Express-Credit-Card-Fraud-Detection/blob/main/AmercianExpress-final.ipynb
 
 
 ## Developer Details :
